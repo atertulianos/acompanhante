@@ -1,0 +1,21 @@
+{
+  "name": "acompanhante",
+  "homepage": "https://github.com/atertulianos/acompanhante",
+  "authors": [
+    "atertulianos <andersontertus@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
